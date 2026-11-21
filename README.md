@@ -34,3 +34,6 @@ The Power BI dashboard features interactive slicers for **Geological Era**, **Di
 * **Dietary Breakdown:** **Herbivorous** dinosaurs make up the majority of the dataset (**189**), followed by **carnivorous** (**95**) and **omnivorous** (**27**) species.
 * **Dinosaur Types:** **Large theropods** (**61**), **sauropods** (**58**), and **small theropods** (**55**) represent the most common classifications.
 * **Geographic Hotspots:** **China** (**49**) and the **USA** (**49**) lead in recorded fossil counts, followed by **Mongolia** (**39**) and **Argentina** (**30**).
+
+### Dashboard 
+<img width="957" height="536" alt="image" src="https://github.com/user-attachments/assets/f1a4d676-0c61-409a-971f-51797a11cc3a" />
